@@ -3,7 +3,7 @@
 A ride-hailing company wants to analyze ride performance across vehicle types.
 Each record contains: ride_id, vehicle_type, fare, status (COMPLETED / CANCELLED / NO_SHOW)
 
-Pipeline to implement:
+Pipeline to implement
 
 Step 1 — GROUP BY vehicle_type
 For each vehicle type:
